@@ -1,0 +1,14 @@
+  name: SpleefPE
+  main: thebigsmileXD\SpleefPE\Main
+  version: 1.0.0
+  api: 1.0.0
+  authors: [thebigsmileXD]
+  commands:
+   spleef:
+    description: "Join/Leave SpleefPE Match"
+    usage: "/spleef <join|leave|addworld <name>|removeworld <name>|spawns <add|remove|list|tp>>"
+    permission: spleef.command
+  permissions:
+    spleef.command:
+      description: Permission for /spleef commands.
+      default: true

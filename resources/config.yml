@@ -1,0 +1,15 @@
+---
+plugin:
+  version: 1.0.0
+  autoUpdate: false
+player-defaults:
+  kills: 0
+  deaths: 0
+  wins: 0
+  played: 0
+  prefix: ""
+lobby-defaults:
+  minplayers: 2
+  maxplayers: 6
+reward-command: money grant {PLAYER} 500
+...
