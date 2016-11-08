@@ -1,4 +1,4 @@
-# SpleefPE
+# EffectSpleef
 Spleef for PocketMine with effect blocks
 
 ### THERE WILL BE A HUGE REWRITE WITHIN THE NEXT HALF YEAR.
